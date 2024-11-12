@@ -1,3 +1,5 @@
 print("hello")
 print("go")
 print("why")
+print("bad")
+print("frtf")
